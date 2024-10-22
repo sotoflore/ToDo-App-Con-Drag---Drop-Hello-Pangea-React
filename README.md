@@ -22,7 +22,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 1. Clona el repositorio:
     ```bash
-    https://github.com/sotoflore/ToDo-App-Con-Drag-Drop-Hello-Pangea-React.git
+    git clone https://github.com/sotoflore/ToDo-App-Con-Drag-Drop-Hello-Pangea-React.git
     ```
 2. Entra en el directorio del proyecto:
     ```bash
